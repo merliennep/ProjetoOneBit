@@ -4,7 +4,7 @@ Ajuda a calcular a gorjeta em um restaurante com base no valor da conta, qualida
 
 
 ## Como Usar
-1. Abra o arquivo index.html em seu navegador da web.
+1. Clique nesse link [Calculadora de Gorjetas](https://projeto-one-bit.vercel.app/) e siga os próximos passos.
 
 2. Preencha os campos:
 
